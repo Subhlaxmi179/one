@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+  margin: 0;
+  position:absolute;
+  top:0;
+  left:0;
+}
+.celeb{
+  position:relative;
+  right:140px;
+  top:-535px;
+  height:80px;
+  width:100px;
+}
+.cheers{
+  position:relative;
+  right:240px;
+  top:-200px;
+  height:150px;
+  width:150px;
+}
+.lights{
+  position:relative;
+  height:369.5px;
+  width:735px;
+  left:300px;
+  top:-666px;
+}
+.cake{
+  position:relative;
+  right:35px;
+  top:-566px;
+  height:110px;
+  width:100px;
+}
+.date{
+    position:relative;
+    height:660.5px;
+    width:1510px;
+    opacity:5;
+}
