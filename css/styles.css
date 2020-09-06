@@ -22,14 +22,13 @@ body{
 }
 img{
   position:relative;
-  left:12.5em;
-  height:677 .5px;
-  width:2160px;
+  height:1117.5px;
+  width:1520px;
 }
 .text{
   position:absolute;
   left:21.5em;
-  top:17.5em;
+  top:57.5em;
   color:#e43f5a;
 
 }
