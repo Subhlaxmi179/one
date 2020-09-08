@@ -33,22 +33,6 @@ body{
   left:300px;
   top:-666px;
 }
-.light{
-  position:relative;
-  height:50px;
-  width:50px;
-  left:-630px;
-  top:-940px;
-  filter: brightness(0.75);
-}
-.light1{
-  position:relative;
-  height:50px;
-  width:50px;
-  left:-600px;
-  top:-860px;
-  filter: brightness(0.75);
-}
 .date{
     position:relative;
     height:660.5px;
