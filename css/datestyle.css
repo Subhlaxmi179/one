@@ -1,6 +1,7 @@
 body{
-  background-color: red;
+  background-color: black ;
   text-align: center;
+  height: 2160px;
 }
 .topc{
   background-color: black;
@@ -69,7 +70,7 @@ img
 }
 .cheers{
   position:relative;
-  left:-250px;
+  left:-270px;
   top:-250px;
   height:150px;
   width:150px;
