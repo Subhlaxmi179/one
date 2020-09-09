@@ -3,7 +3,7 @@ body{
   text-align: center;
 }
 .topc{
-  background-color: black;
+  background-color: red;
   margin: 0;
   height: 900px;
   position:absolute;
@@ -69,7 +69,7 @@ img
 }
 .cheers{
   position:relative;
-  left:-230px;
+  left:-240px;
   top:-250px;
   height:150px;
   width:150px;
