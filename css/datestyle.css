@@ -10,6 +10,32 @@ body{
   top:0;
   left:0;
 }
+.btn{
+  font-family:fantasy;
+  background: #484d52;
+background-image: -webkit-linear-gradient(top, #484d52, #303438);
+background-image: -moz-linear-gradient(top, #484d52, #303438);
+background-image: -ms-linear-gradient(top, #484d52, #303438);
+background-image: -o-linear-gradient(top, #484d52, #303438);
+background-image: linear-gradient(to bottom, #484d52, #303438);
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0px;
+color: #c8cacb;
+font-size: 14px;
+padding: 10px 30px 10px 30px;
+text-decoration: none;
+}
+
+.btn:hover {
+background: #f2a900;
+background-image: -webkit-linear-gradient(top, #f2a900, #ec8f00);
+background-image: -moz-linear-gradient(top, #f2a900, #ec8f00);
+background-image: -ms-linear-gradient(top, #f2a900, #ec8f00);
+background-image: -o-linear-gradient(top, #f2a900, #ec8f00);
+background-image: linear-gradient(to bottom, #f2a900, #ec8f00);
+text-decoration: none;
+}
 img
 {
   height: 450px;
