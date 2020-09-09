@@ -34,14 +34,14 @@ img
 }
 .celeb{
   position:relative;
-  right:350px;
-  top:-400px;
+  right:300px;
+  top:-300px;
   height:80px;
   width:100px;
 }
 .cheers{
   position:relative;
-  left:500px;
+  left:250px;
   top:-300px;
   height:150px;
   width:150px;
@@ -55,11 +55,12 @@ img
 }
 p
 {font-family: 'Cookie', cursive;
-font-size: 3em;}
+font-size: 3em;
+}
 .cake{
   position:relative;
   right:195px;
-  top:-400px;
+  top:-300px;
   height:120px;
   width:130px;
 }
@@ -68,3 +69,4 @@ font-size: 3em;}
     height:660.5px;
     width:1510px;
 }
+
