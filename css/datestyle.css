@@ -9,6 +9,14 @@ body{
   top:0;
   left:0;
 }
+img
+{
+  height: 100px;
+  width :100px;
+  float: left;
+  padding-left: 8px;
+  padding-right: 10px;
+}
 .middlec{
   background-color: #eaf6f6;
   margin: 0;
@@ -40,7 +48,7 @@ body{
 }
 p
 {font-family: 'Cookie', cursive;
-font-size: 2em;}
+font-size: 3em;}
 .cake{
   position:relative;
   right:195px;
