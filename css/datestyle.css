@@ -22,7 +22,7 @@ background-image: linear-gradient(to bottom, #f2a900, #ec8f00);
 -webkit-border-radius: 0;
 -moz-border-radius: 0;
 border-radius: 0px;
-color: #ffffff;
+color: black;
 font-size: 14px;
 padding: 10px 30px 10px 30px;
 text-decoration: none;
@@ -70,7 +70,7 @@ img
 }
 .cheers{
   position:relative;
-  left:-275px;
+  left:300px;
   top:-250px;
   height:150px;
   width:150px;
