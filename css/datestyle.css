@@ -12,7 +12,7 @@ body{
   left:0;
 }
 .btn{
-  font-family:fantasy;
+  font-family: 'Nova Square', cursive;
   background: #f2a900;
 background-image: -webkit-linear-gradient(top, #f2a900, #ec8f00);
 background-image: -moz-linear-gradient(top, #f2a900, #ec8f00);
