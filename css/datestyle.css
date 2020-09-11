@@ -1,6 +1,5 @@
 body{
-   background-image: -o-linear-gradient(top,black,#200f21);
-  background-image: linear-gradient(to bottom,black,#200f21);
+  background-color: black;
   text-align: center;
   height: 2000px;
 }
