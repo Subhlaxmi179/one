@@ -2,7 +2,7 @@ body{
   background-image: linear-gradient(top,black,#200f21);
   text-align: center;
   height: 2300px;
-  Width : 1520px;
+  Width : 1460px;
 }
 .topc{
   background-color: red;
@@ -64,7 +64,7 @@ text-decoration: none;
   position:absolute;
   top:800px;
   left:0;
-  width:1520px;
+  width:1460px;
 }
 .celeb{
   position:relative;
@@ -102,6 +102,6 @@ color:#ff4c68;
 .date{
     position:relative;
     height:660.5px;
-    width:1510px;
+    width:1460px;
 }
 
