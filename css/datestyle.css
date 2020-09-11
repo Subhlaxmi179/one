@@ -1,5 +1,5 @@
 body{
-  background-image: -o-linear-gradient(top,black,#200f21);
+  background-image: linear-gradient(top,black,#200f21);
   text-align: center;
   height: 2300px;
   Width : 1520px;
@@ -75,8 +75,8 @@ text-decoration: none;
 }
 .cheers{
   position:relative;
-  right: 430px;
-  top:-280px;
+  right: 450px;
+  top:-250px;
   height:150px;
   width:150px;
 }
