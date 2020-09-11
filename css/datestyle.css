@@ -1,6 +1,6 @@
 body{
   background-image: -o-linear-gradient(top,black,#200f21);
-  background-image: linear-gradient(to bottom,black,#200f21);
+  background-image: linear-gradient(to bottom,red, red);
   text-align: center;
   height: 2300px;
   Width : 1520px;
@@ -69,15 +69,15 @@ text-decoration: none;
 }
 .celeb{
   position:relative;
-  right: 200px;
+  right: 320px;
   top:-400px;
   height:80px;
   width:100px;
 }
 .cheers{
   position:relative;
-  right: 300px;
-  top:-350px;
+  right: 430px;
+  top:-320px;
   height:150px;
   width:150px;
 }
