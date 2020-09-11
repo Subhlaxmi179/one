@@ -25,6 +25,24 @@ img{
   height:2117.5px;
   width:1460px;
 }
+.submit
+{
+  background: #e43f5a;
+  background-image: -webkit-linear-gradient(top, #e43f5a, #fc8aba);
+  background-image: -moz-linear-gradient(top, #e43f5a, #fc8aba);
+  background-image: -ms-linear-gradient(top, #e43f5a, #fc8aba);
+  background-image: -o-linear-gradient(top, #e43f5a, #fc8aba);
+  background-image: linear-gradient(to bottom, #e43f5a, #fc8aba);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: 'Press Start 2P', cursive;
+  border-style: hidden;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
 .text{
   position:absolute;
   left:21.5em;
