@@ -2,7 +2,7 @@ body{
   background-image: -o-linear-gradient(top,black,#200f21);
   background-image: linear-gradient(to bottom,black,#200f21);
   text-align: center;
-  height: 2000px;
+  height: 1800px;
 }
 .topc{
   background-color: black;
@@ -62,21 +62,21 @@ text-decoration: none;
   background-image: linear-gradient(to bottom,black,#200f21);
   margin: 0;
   position:absolute;
-  top:1200px;
+  top:800px;
   left:0;
-  width:1530px;
+  width:1520px;
 }
 .celeb{
   position:relative;
   right:220px;
-  top:-420px;
+  top:-620px;
   height:80px;
   width:100px;
 }
 .cheers{
   position:relative;
   left:-150px;
-  top:-450px;
+  top:-650px;
   height:150px;
   width:150px;
 }
@@ -95,7 +95,7 @@ color:#ff4c68;
 .cake{
   position:relative;
   right:195px;
-  top:-350px;
+  top:-450px;
   height:120px;
   width:130px;
 }
