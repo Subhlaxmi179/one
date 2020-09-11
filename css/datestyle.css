@@ -1,7 +1,7 @@
 body{
   background-image: linear-gradient(to bottom,black,#200f21);
   text-align: center;
-  height: 2300px;
+  height: 2600px;
   Width : 1460px;
 }
 .topc{
@@ -90,7 +90,7 @@ text-decoration: none;
 p
 {font-family: 'Cookie', cursive;
 font-size: 3em;
-color:gold;
+color:#ff4c68;
 }
 .cake{
   position:relative;
