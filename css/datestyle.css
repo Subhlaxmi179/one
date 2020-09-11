@@ -55,7 +55,8 @@ img
   padding-right: 8px;
 }
 .middlec{
-  background-color: #eaf6f6;
+  background-image: -o-linear-gradient(top,black,#200f21);
+  background-image: linear-gradient(to bottom,black,#200f21);
   margin: 0;
   position:absolute;
   top:800px;
@@ -86,6 +87,7 @@ img
 p
 {font-family: 'Cookie', cursive;
 font-size: 3em;
+color:#ff4c68;
 }
 .cake{
   position:relative;
