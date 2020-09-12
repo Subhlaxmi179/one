@@ -10,7 +10,7 @@ h4{
 }
 body{
   margin: 0;
-  background-color:#ffc0cb;
+  background-image: linear-gradient(to bottom, #ffc0cb, bisque);
   position:absolute;
   top:0;
   left:0;
