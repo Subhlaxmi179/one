@@ -5,6 +5,9 @@ body{
   margin :0;
   border: 0;
 }
+.pb{
+  margin-bottom:70px;
+}
 .topc{
   background-color: black;
   padding :0 0 0 65px;
