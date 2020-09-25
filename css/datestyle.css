@@ -52,6 +52,7 @@ transform: rotate(15deg);
   height: 200px;
   width :150px;
   float: left;
+  padding-top : 60px;
   padding-left: 8px;
   padding-right: 10px;
 }
@@ -59,6 +60,7 @@ transform: rotate(15deg);
   height: 200px;
   width :150px;
   float: right;
+  padding-top : 60px;
   padding-left: 10px;
   padding-right: 8px;
 }
