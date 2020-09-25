@@ -1,19 +1,17 @@
 body{
-  background-image: linear-gradient(to bottom,black,#200f21);
+  background-color:#200f21;
   text-align: center;
   padding :0;
   margin :0;
-  height: 2600px;
-  Width : 1460px;
+  border: 0;
 }
 .topc{
-  background-color: red;
-  padding :0;
+  background-color: black;
+  padding :0 0 0 65px;
   margin :0;
   height: 900px;
-  position:absolute;
-  top:0;
-  left:0;
+  width: 1460px;
+
 }
 .btn{
   font-family: 'Nova Square', cursive;
@@ -53,7 +51,6 @@ text-decoration: none;
   padding-right: 10px;
 }
 .right{
-  transform: rotate(-15deg);
   height: 450px;
   width :350px;
   float: right;
@@ -63,12 +60,10 @@ text-decoration: none;
 .middlec{
   background-image: -o-linear-gradient(top,black,#200f21);
   background-image: linear-gradient(to bottom,black,#200f21);
-  padding :0;
+  background-color: black;
+  padding :100px 0 100px 65px;
   margin :0;
-  position:absolute;
-  top:750px;
-  left:0;
-  width:1520px;
+  width:1460px;
 }
 .celeb{
   position:relative;
@@ -106,6 +101,6 @@ color:#ff4c68;
 .date{
     position:relative;
     height:660.5px;
-    width:1520px;
+    width:1460px;
 }
 
