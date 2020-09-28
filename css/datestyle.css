@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: #200f21;
   text-align: center;
   padding :0;
   margin :0;
@@ -10,7 +10,7 @@ body{
 }
 .topc{
   background-color: black;
-  padding :0;
+  padding :0 0 0 65px;
   margin :0;
   height: 800px;
   width: 1460px;
@@ -107,5 +107,5 @@ color:#ff4c68;
 .date{
     position:relative;
     height:660.5px;
-    width:1520px;
+    width:1460px;
 }
