@@ -44,9 +44,6 @@ background-image: linear-gradient(to bottom, #484d52, #303438);
 color: #c8cacb;
 text-decoration: none;
 }
-.rotate{
-transform: rotate(5deg);
-}
 .left
 {
   height: 200px;
