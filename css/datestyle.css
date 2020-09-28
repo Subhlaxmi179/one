@@ -1,5 +1,5 @@
 body{
-  background-color:#200f21;
+  background-color: black;
   text-align: center;
   padding :0;
   margin :0;
@@ -10,12 +10,14 @@ body{
 }
 .topc{
   background-color: black;
-  padding :0 0 0 65px;
+  padding :0;
   margin :0;
   height: 800px;
   width: 1460px;
-
+.rotate{
+transform: rotate(15deg);
 }
+
 .btn{
   font-family: 'Nova Square', cursive;
   background: #f2a900;
@@ -105,5 +107,5 @@ color:#ff4c68;
 .date{
     position:relative;
     height:660.5px;
-    width:1460px;
+    width:1520px;
 }
