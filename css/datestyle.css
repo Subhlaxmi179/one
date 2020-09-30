@@ -44,7 +44,7 @@ color: #c8cacb;
 text-decoration: none;
 }
 .rotate{
-transform: rotate(15deg);
+transform: rotate(10deg);
 }
 .left
 {
@@ -106,7 +106,6 @@ margin: 0;
   width:130px;
 }
 .date{
-    position:relative;
     height:660.5px;
     width:1460px;
 }
