@@ -7,7 +7,6 @@ body{
 }
 .topc{
   background-color: black;
-  padding :0 0 0 65px;
   margin :0;
   height: 800px;
   width: 1460px;
@@ -63,7 +62,7 @@ transform: rotate(10deg);
   background-image: -o-linear-gradient(top,black,#200f21);
   background-image: linear-gradient(to bottom,black,#200f21);
   background-color: black;
-  padding :20px 0 50px 65px;
+  padding :20px 30px 50px 35px;
   margin :0;
   width:1460px;
 }
@@ -107,5 +106,5 @@ margin: 0;
 }
 .date{
     height:660.5px;
-    width:1460px;
+    width:1520px;
 }
