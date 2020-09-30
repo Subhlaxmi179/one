@@ -5,7 +5,9 @@ body {
 }
 .top-container{
   padding: 20px;
+  items-align: centre;
 }
 .bottom-container{
   padding: 20px;
+  items-align: centre;
 }
