@@ -11,7 +11,9 @@ body{
   margin :0;
   height: 800px;
   width: 1460px;
-
+}
+.tr{
+  transform:rotateY(180deg);
 }
 .btn{
   font-family: 'Nova Square', cursive;
@@ -49,16 +51,13 @@ transform: rotate(15deg);
   height: 200px;
   width :150px;
   float: left;
-  padding-top: 60px;
-  padding-left: 8px;
-  padding-right: 10px;
+  padding:40px 8px 0  10px;
 }
 .right{
   height: 200px;
   width :150px;
   float: right;
-  padding-left: 10px;
-  padding-right: 8px;
+  padding:40px 10px 0  8px;
 }
 .middlec{
   background-image: -o-linear-gradient(top,black,#200f21);
