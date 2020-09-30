@@ -5,9 +5,11 @@ body {
 }
 .top-container{
   padding: 20px;
-  items-align: centre;
-}
+  display: flex;
+  align-items: center;
+} 
 .bottom-container{
   padding: 20px;
-  items-align: centre;
+  display: flex;
+  align-items: center;
 }
