@@ -7,14 +7,12 @@
 <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="favicon.ico">
   <link href="https://fonts.googleapis.com/css2?family=Aclonica&family=Bangers&family=Berkshire+Swash&family=Caveat:wght@700&family=Cookie&family=Covered+By+Your+Grace&family=Great+Vibes&family=Lobster+Two:ital@1&family=Monoton&family=Press+Start+2P&family=Rancho&family=Rock+Salt&family=Rye&family=Sacramento&display=swap" rel="stylesheet">
-  <script type="text/javascript">
+ <script type="text/javascript">
   function check(){
     var password = document.getElementById("pass");
     var response = password.value;
-    if(response == "Ashu"){
-      return true;
-    }
-    else if(response == "ASHU"){
+    var response1 = response.slice(0,1) + response.slice(1,5).toUpperCase();
+    if(response1 == "ASHU"){
       return true;
     }
     else{
